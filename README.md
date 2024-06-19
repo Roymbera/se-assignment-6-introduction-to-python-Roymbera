@@ -401,6 +401,21 @@ except IOError as e:
     print(f"Error: Unable to write to the file '{file_path}'.")
     print(f"Reason: {str(e)}")
 
+REFERENCES:
+https://www.geeksforgeeks.org/reading-writing-text-files-python/
+
+https://www.digitalocean.com/community/tutorials/how-to-import-modules-in-python-3
+
+https://www.shiksha.com/online-courses/articles/difference-between-module-and-package-in-python
+
+https://www.shiksha.com/online-courses/articles/difference-between-list-and-dictionary-in-python
+
+https://www.linkedin.com/pulse/loops-conditional-statements-python-can-arslan/
+
+https://chatgpt.com/
+
+https://www.w3schools.com/python/
+
 
 
 # Submission Guidelines:
